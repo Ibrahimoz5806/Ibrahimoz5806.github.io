@@ -3,7 +3,7 @@
 Merhaba! Ben İbrahim Özdemir. Web geliştirme yolculuğuma HTML ve SEO temelleriyle başladım. Bu repo, kişisel GitHub Pages sitemi barındırıyor. Amacım, projelerimi sergilemek, öğrendiklerimi paylaşmak ve dijital kimliğimi oluşturmak.
 
 ## 🌐 Yayınlanan Site
-👉 [https://Ubrahimoz5806.github.io](https://Ubrahimoz5806.github.io)
+👉 [https://ibrahimoz5806.github.io](https://ibrahimoz5806.github.io)
 
 ## 📁 İçerik
 - `index.html`: Ana sayfa yapısı
