@@ -18,7 +18,7 @@ Merhaba! Ben İbrahim Özdemir. Web geliştirme yolculuğuma HTML ve SEO temelle
 
 ## 📬 İletişim
 Eğer projelerimle ilgileniyorsanız veya öneriniz varsa bana ulaşabilirsiniz:  
-📧 ibrahimozdemir@example.com
+📧 o.ibrahim5806@gmail.com
 
 ---
 
