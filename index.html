@@ -46,9 +46,18 @@
       }
     </script>
     <script>
-      window.onload = function () {
-        alert("Hoş geldiniz! İbrahim'in portfolyo sitesine göz atın.");
-      };
+      const saat = new Date().getHours();
+      let selam = "";
+
+      if (saat < 12) {
+        selam = "Günaydın";
+      } else if (saat < 18) {
+        selam = "İyi günler";
+      } else {
+        selam = "İyi akşamlar";
+      }
+
+      alert(`${selam}! İbrahim'in portfolyo sitesine hoş geldiniz.`);
     </script>
 
     <footer>
