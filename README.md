@@ -8,7 +8,7 @@ Merhaba! Ben İbrahim Özdemir. Web geliştirme yolculuğuma HTML ve SEO temelle
 ## 📁 İçerik
 - `index.html`: Ana sayfa yapısı
 - `style.css`: Sayfa tasarımı
-- Proje bağlantıları: Kayıt paneli, film arşivi (yakında)
+- Proje bağlantıları: Kayıt paneli, Sağlıklı Yaşam Rehberi
 
 ## 🚀 Hedeflerim
 - Semantik HTML ve erişilebilirlik kurallarına uygun sayfalar oluşturmak
